@@ -4,4 +4,4 @@ It's a simple & useful Calculator for general purposes. Which offers basic opera
 
 # Screenshot
 
-![image of my calculator]()
+![image of my calculator](https://github.com/OksanaKis/react_calculator/blob/main/src/components/image/calc.png)
